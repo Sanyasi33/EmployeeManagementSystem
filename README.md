@@ -1,1 +1,2 @@
 # EmployeeManagementSystem
+In an organization employee management system is a project that manages and stores employee records in an efficient manner. The system helps to the admin of the company to add the new employee, modify the data of an existing employee and remove the employee records who has been resigned from the company. It allows the admin to manipulate all the employee records of an organization.
